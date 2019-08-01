@@ -1,2 +1,3 @@
-# Meine-UI-Replica
+# MeineUIReplica
 implement the  UI mockup
+MeineMacO.github.io
